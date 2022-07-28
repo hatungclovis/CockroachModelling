@@ -1,4 +1,7 @@
 #Code written by Clovis Hatungimana for modeling the cockroach on a continuously expanding wire
+# The initial length of the wire is 1000 meters.
+# The wire's length doubles after each second
+# The cockroach moves from one end of the wire to the other at a speed of one meter per second
 
 import matplotlib.pyplot as plt
 import numpy as np
